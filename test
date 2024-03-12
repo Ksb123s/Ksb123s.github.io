@@ -1,0 +1,7 @@
+github 저장소 생성 ==> C (clone)
+  1.zip파일 만들기
+
+  2.명령어 사용
+    -git clone 글론주소
+
+c 폴더 생성 => git remote
